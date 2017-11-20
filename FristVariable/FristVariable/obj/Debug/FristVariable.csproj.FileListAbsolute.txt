@@ -1,0 +1,7 @@
+C:\Users\MCK\source\repos\FristVariable\FristVariable\bin\Debug\FristVariable.exe.config
+C:\Users\MCK\source\repos\FristVariable\FristVariable\bin\Debug\FristVariable.exe
+C:\Users\MCK\source\repos\FristVariable\FristVariable\bin\Debug\FristVariable.pdb
+C:\Users\MCK\source\repos\FristVariable\FristVariable\obj\Debug\FristVariable.csprojResolveAssemblyReference.cache
+C:\Users\MCK\source\repos\FristVariable\FristVariable\obj\Debug\FristVariable.csproj.CoreCompileInputs.cache
+C:\Users\MCK\source\repos\FristVariable\FristVariable\obj\Debug\FristVariable.exe
+C:\Users\MCK\source\repos\FristVariable\FristVariable\obj\Debug\FristVariable.pdb
